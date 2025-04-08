@@ -1,0 +1,6 @@
+source '/usr/share/zsh-antidote/antidote.zsh'
+antidote load
+
+EDITOR=vim
+
+eval "$(starship init zsh)"
